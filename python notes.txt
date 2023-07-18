@@ -1,0 +1,29 @@
+    Python notes
+
+
+1,programing
+. set of instructions.
+
+2,python
+.open source language
+.created by guido van rossum in late 1980.
+.he named it as python after the bbc comedy script "monty python's flying circus.
+
+3,python featues
+. interpreted
+.platform independent
+. free and open source
+. high level language
+. simple
+. embeddable
+.inbuilt memory management system
+. dynamically typed
+
+4, software developing life cycle
+.planning
+.analysing
+. design
+. developing(coding)
+.testing
+. deployment
+.maintenance
